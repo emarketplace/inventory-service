@@ -5,7 +5,7 @@ pipeline {
     }
     environment {
         REPOSITORY = "muhammedshaheer"
-        IMAGE_NAME = "emarketplace-inventory-service"
+        IMAGE_NAME = "emarketplace-dev-inventory-service"
         NAMESPACE = "backend"
         SERVICE_NAME = "inventory-service"
     }
