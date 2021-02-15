@@ -23,10 +23,10 @@ server:
 
 springdoc:
   swagger-ui:
-    path: /inventory-service/api-specs.html
+    path: /inventory-service-docs/api-specs.html
   api-docs:
     enabled: true
-    path: /inventory-service/api-specs
+    path: /inventory-service-docs/api-specs
 
 management:
   metrics:
